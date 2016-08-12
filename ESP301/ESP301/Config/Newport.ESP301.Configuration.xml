@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Newport.ESP301.Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Newport.ESP301.Configuration.xsd">
+  <LoggingConfiguration LogFileName="Newport.ESP301.Log" LogPath="\\Log" Permission="" Level="Trace" />
+  <InstrumentInformation PollingFrequency="200" />
+  <Diagnostics Delay="1000" />
+  <Models>
+    <InstrumentInfo InstrumentType="ESP301" NoOfInstruments="1" CommunicationChannel="USB" />
+  </Models>
+  <MemorizedPositionRollingBuffer1 BufferDepth="5" Positions="" />
+  <MemorizedPositionRollingBuffer2 BufferDepth="5" Positions="" />
+  <MemorizedPositionRollingBuffer3 BufferDepth="5" Positions="" />
+</Newport.ESP301.Configuration>
