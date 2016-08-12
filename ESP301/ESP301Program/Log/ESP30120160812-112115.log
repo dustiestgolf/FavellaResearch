@@ -1,0 +1,49 @@
+<LogMessage time="2016-08-11 12:57:15.062" source="Diagnostics.Logging.Applet.SingleFileLoggingMethod" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Logging device for ESP301.Log opened for ESP301 version 1.0.0.0.  Instance name = , Instance version = ]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:15.017" source="Diagnostics.Logging.Applet.SingleFileLoggingMethod" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Log ESP301.Log opened for ESP301 version 1.0.0.0.  Instance name = , Instance version = ]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:15.068" source="Diagnostics.Logging.Applet.SingleFileLoggingMethod" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Log ESP301.Log is logging at level 4]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:15.071" source="Diagnostics.Logging.Applet.SingleFileLoggingMethod" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Log ESP301.Log is logging at level 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:15.072" source="" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Load Configuration : Successful.]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:15.074" source="" logname="ESP301.Log" thread="" severity="Info"><![CDATA[ESP301 Log Initialize]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:15.624" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  VE => Response to command: ESP301 Version 1.1.1]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:15.661" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1MO => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:15.671" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1TP => Response to command: 0.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:15.671" source="" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Registration and communication with instrument successful]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:15.717" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1SL => Response to command: 0.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:15.722" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1SR => Response to command: 25.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:15.730" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1VA => Response to command: 1.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:15.736" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1VU => Response to command: 2.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:16.072" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  LC => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:16.188" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1MO => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:16.191" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1TP => Response to command: 0.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:16.443" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  LC => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:16.446" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1MO => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:16.449" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1TP => Response to command: 0.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:16.651" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  LC => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:16.654" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1MO => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:16.657" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1TP => Response to command: 0.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:16.859" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  LC => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:16.862" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1MO => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:16.865" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1TP => Response to command: 0.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.067" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  LC => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.069" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1MO => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.072" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1TP => Response to command: 0.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.274" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  LC => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.277" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1MO => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.280" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1TP => Response to command: 0.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.482" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  LC => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.485" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1MO => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.488" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1TP => Response to command: 0.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.690" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  LC => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.693" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1MO => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.696" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1TP => Response to command: 0.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.898" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  LC => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.901" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1MO => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:17.904" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1TP => Response to command: 0.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:18.106" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  LC => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:18.109" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1MO => Response to command: 0]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:18.112" source="CommandInterface" logname="ESP301.Log" thread="" severity="Trace"><![CDATA[Command Sent to the Instrument:  1TP => Response to command: 0.00000]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:18.308" source="" logname="ESP301.Log" thread="" severity="Error"><![CDATA["Exception occured in polling. "Thread was being aborted.]]></LogMessage>
+<LogMessage time="2016-08-11 12:57:18.548" source="" logname="ESP301.Log" thread="" severity="Error"><![CDATA[Exception occured in poll Thread was being aborted.]]></LogMessage>
+<LogMessage time="2016-08-11 12:58:00.655" source="" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Command Response :EO, 
+]]></LogMessage>
+<LogMessage time="2016-08-11 12:58:12.735" source="" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Configuration Save : Successful.Load Configuration : Successful.]]></LogMessage>
