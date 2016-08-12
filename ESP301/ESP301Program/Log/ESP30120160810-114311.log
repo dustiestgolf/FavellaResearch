@@ -1,0 +1,8 @@
+<LogMessage time="2016-08-09 15:03:33.909" source="Diagnostics.Logging.Applet.SingleFileLoggingMethod" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Logging device for ESP301.Log opened for ESP301 version 1.0.0.0.  Instance name = , Instance version = ]]></LogMessage>
+<LogMessage time="2016-08-09 15:03:33.897" source="Diagnostics.Logging.Applet.SingleFileLoggingMethod" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Log ESP301.Log opened for ESP301 version 1.0.0.0.  Instance name = , Instance version = ]]></LogMessage>
+<LogMessage time="2016-08-09 15:03:33.914" source="Diagnostics.Logging.Applet.SingleFileLoggingMethod" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Log ESP301.Log is logging at level 4]]></LogMessage>
+<LogMessage time="2016-08-09 15:03:33.917" source="Diagnostics.Logging.Applet.SingleFileLoggingMethod" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Log ESP301.Log is logging at level 0]]></LogMessage>
+<LogMessage time="2016-08-09 15:03:33.918" source="" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Load Configuration : Successful.]]></LogMessage>
+<LogMessage time="2016-08-09 15:03:33.920" source="" logname="ESP301.Log" thread="" severity="Info"><![CDATA[ESP301 Log Initialize]]></LogMessage>
+<LogMessage time="2016-08-09 15:03:34.923" source="" logname="ESP301.Log" thread="" severity="Error"><![CDATA[Communication with registered instrument could not be established!]]></LogMessage>
+<LogMessage time="2016-08-09 15:03:37.393" source="" logname="ESP301.Log" thread="" severity="Info"><![CDATA[Configuration Save : Successful.Load Configuration : Successful.]]></LogMessage>
